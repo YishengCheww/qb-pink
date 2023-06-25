@@ -1,4 +1,4 @@
-# qb-target but pink color
+# Installation Tutorial
 **Replace your qb-target\target\js app.js**
 
 **drawtext replace with qb-core\html\css drawtext.css**
