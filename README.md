@@ -1,7 +1,7 @@
 # Installation Tutorial
-**Replace your qb-target\target\js app.js**
+**qb-target: Replace qb-target\target\js app.js**
 
-**drawtext replace with qb-core\html\css drawtext.css**
+**qb-core: Replace qb-core\html\css drawtext.css**
 
 # Preview
 
