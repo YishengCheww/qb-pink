@@ -3,6 +3,8 @@
 
 **qb-core: Replace qb-core\html\css drawtext.css**
 
+**Custom Color: Open Photoshop and change the color u want that all n save it**
+
 # Preview
 
 **Non active target:**
