@@ -13,3 +13,6 @@
 
 **Drawtext:**
 ![图片_20230625110703](https://github.com/YishengCheww/target-pink/assets/64354150/3c21748b-c324-4ebf-b499-ccced780f2c2)
+
+**Custom Color Change:**
+![nonactiveeyee](https://github.com/YishengCheww/qb-pink/assets/64354150/5a19c674-f551-4931-87f7-2c1e6f18d379)
