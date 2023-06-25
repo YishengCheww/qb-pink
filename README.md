@@ -3,7 +3,7 @@
 
 **qb-core: Replace qb-core\html\css drawtext.css**
 
-**Custom Color: Open Photoshop and change the color u want that all n save it**
+**Custom Color: Open Photoshop and change the color and last save as png that all**
 
 # Preview
 
